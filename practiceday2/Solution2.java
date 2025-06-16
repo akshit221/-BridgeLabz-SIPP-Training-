@@ -12,5 +12,3 @@ class Solution2{
                            "The Profit is INR " + profit + " and the Profit Percentage is " + String.format("%.2f", profitPercentage));
     }
 }
-
-        
